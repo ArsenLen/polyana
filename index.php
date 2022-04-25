@@ -27,11 +27,9 @@
           </div>
           <div class="main-content">
             <div class="content">
-              <h1 class="h1">«Поляна» – живописный семейный ресторан</h1>
+              <h1 class="h1">«Поляна» - семейный ресторан</h1>
               <div class="text">
-                В котором вы всегда почувствуете себя желанными гостями, сможете
-                отдохнуть от забот и отведать изысканные блюда, с любовью
-                приготовленные нашими поварами.
+                На территории бывшей усадьбы Александра Феофиловича Толстого, правнука полководца Кутузова. В меню – любимые блюда русской кухни, а также классика Европы и акценты Азии.
               </div>
               <div class="btn-mobile">
                 <a target="_blank"
@@ -58,30 +56,34 @@
         <div class="row">
           <div class="col col-1">
             <div class="text-content">
-              <div class="title h1">Уютный интерьер</div>
-              <div class="text">Терраса ресторана расположилась в тени двухэтажного каменного дома, некогда принадлежавшего А. Ф. Толстому – правнуку русского полководца М. И. Кутузова.</div>
+              <div class="title h1">Банкетное предложение</div>
+              <div class="text">
+                В ресторане есть банкетные залы на 15, 30, 50 и 120 гостей для проведения мероприятий различного формата: от концертов до банкетов. Для выступления музыкантов возможно обустроить сцену. Зал оснащен современным звуковым оборудованием. Для артистов предусмотрены отдельный вход и гримерка.
+              </div>
             </div>
+
             <div class="image-block">
                 <div class="parallax-bg bg-1">
                     <img class="img rellax" data-rellax-speed="-1.5" src="img/image-2.jpg" alt="">
                 </div>
                 <div class="parallax-bg bg-2">
-                    <img class="img rellax" data-rellax-speed="1" src="img/image-3.jpg" alt="">
+<!--                    <img class="img rellax" data-rellax-speed="1" src="img/image-3.jpg" alt="">-->
                 </div>
             </div>
           </div>
           <div class="col col-2">
             <div class="text-content">
-              <div class="title h1">Теплая атмосфера</div>
-              <div class="text">Сегодня каменный дом вместе с раскинувшимся вокруг него садом стал частью ресторана «Поляна».
-                Гостям предлагаем расположится на уютной террасе в любое время года,а летом на солнечном понтоне под развесистой липой.</div>
+              <div class="title h1">Уютный интерьер</div>
+              <div class="text">В каменном доме есть три зала – роскошный французский, уютный и домашний русский и строгий английский. Мягкие ковры, стильные диваны, свечи, пианино, камины — все элементы вдохновляют на творчество и долгие душевные разговоры.
+                <br> В любое время года гости могут расположиться на закрытой солнечной веранде. Летом в саду под липой открывается большая летняя терраса, окруженная клумбами, с детской площадкой и мини-зоопарком.
+              </div>
             </div>
             <div class="image-block">
                 <div class="parallax-bg bg-1">
-                    <img class="img rellax" data-rellax-speed="-1.5" src="img/image-4.jpg" alt="">
+                    <img class="img rellax" data-rellax-speed="-1.5" src="img/interior-item.jpg" alt="">
                 </div>
                 <div class="parallax-bg bg-2">
-                    <img class="img rellax" data-rellax-speed="1" src="img/image-5.jpg" alt="">
+<!--                    <img class="img rellax" data-rellax-speed="1" src="img/image-5.jpg" alt="">-->
                 </div>
             </div>
             <div class="text-content">
