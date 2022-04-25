@@ -302,9 +302,13 @@ figcaption {
   /* padding-right: 265px; */
   padding: 0 50px;
 }
+.nav {
+  width: 45%;
+}
 .header .nav ul {
   display: flex;
   align-items: center;
+  justify-content: center;
   flex-wrap: wrap;
 }
 .header .nav li:not(:last-child) {

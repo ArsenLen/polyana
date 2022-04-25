@@ -98,7 +98,7 @@
         <div class="row">
           <div class="text-block">
             <div class="title h1">Залы</div>
-            <div class="text">В нашем ресторане вы можете выбрать интерьер который подойдет вам больше всего </div>
+            <div class="text">В каменном доме располагаются три зала – роскошный французский, уютный и домашний русский и строгий английский. Круглый год работает светлая крытая веранда. Летом в саду на тепане раскидывается широкая летняя терраса</div>
           </div>
 
           <div class="halls-wrapper swiper-entry">
@@ -150,24 +150,24 @@
         <div class="h1">Волшебные дни</div>
         <div class="row">
 
-          <div class="action-item action-1">
-            <div class="title">Понедельник–Вторник</div>
-            <div class="percent">
-              <img src="img/icon/day-1.svg" alt="">
-              <div class="percent-content">
-                <span>скидка</span>
-                <div class="number">-20%</div>
-              </div>
-            </div>
-            <div class="text-time text">
-              На основное меню после
-              <div class="time">17:00 </div>
-            </div>
-            <div class="text text-bottom">
-              <img src="img/icon/child-1.svg" alt="">
-                Детям до <span> 8</span> лет одно блюдо из детского меню в подарок
-            </div>
-          </div>
+<!--            <div class="action-item action-1">-->
+<!--              <div class="title">Понедельник–Вторник</div>-->
+<!--              <div class="percent">-->
+<!--                <img src="img/icon/day-1.svg" alt="">-->
+<!--                <div class="percent-content">-->
+<!--                  <span>скидка</span>-->
+<!--                  <div class="number">-20%</div>-->
+<!--                </div>-->
+<!--              </div>-->
+<!--              <div class="text-time text">-->
+<!--                На основное меню после-->
+<!--                <div class="time">17:00 </div>-->
+<!--              </div>-->
+<!--              <div class="text text-bottom">-->
+<!--                <img src="img/icon/child-1.svg" alt="">-->
+<!--                  Детям до <span> 8</span> лет одно блюдо из детского меню в подарок-->
+<!--              </div>-->
+<!--            </div>-->
 
           <div class="action-item action-2">
             <div class="title">Среда</div>
@@ -179,9 +179,9 @@
             </div>
 
             <ul>
-              <li>1 шт – <b>370р </b></li>
-              <li>6 шт – <b>1 500р</b> </li>
-              <li>12 шт – <b>3 000р</b></li>
+              <li>1 шт – <b>400р </b></li>
+              <li>6 шт – <b>1 990р</b> </li>
+              <li>12 шт – <b>3 990р</b></li>
             </ul>
           </div>
 
@@ -203,9 +203,9 @@
           </div>
 
           <div class="action-item action-4">
-            <div class="title">Пятница</div>
+            <div class="title">День рождения</div>
             <div class="row-day">
-              <img src="img/icon/amfora.svg" alt="">
+              <img src="img/icon/birthday-cake.png" style="height: auto; width: 40%;" alt="">
               <div class="percent">
                 <img src="img/icon/day-1.svg" alt="">
                 <div class="percent-content">
@@ -215,13 +215,9 @@
               </div>
             </div>
 
-            <div class="text">
-              На коктейли
-            </div>
-
             <div class="text text-bottom">
               <img src="img/icon/child-2.svg" alt="">
-              При заказе 2х блюд из детского меню - сладкий подарок
+              Скидка 20% в день рождения, а также за 3 дня до и после
             </div>
           </div>
 
@@ -394,10 +390,6 @@
                 <div class="slide-title">Праздник осени 2020</div>
                 <div class="date">12.09.2021 в 20:00</div>
               </a>
-              <a href="" class="swiper-slide" style="background-image:url(img/events/2af4c4_c9d8888b1a4c420ebbf795f9ea23aa7f_mv2.webp)">
-                <div class="slide-title">23 февраля</div>
-                <div class="date">23.02.2021 в 20:00</div>
-              </a>
               <a href="" class="swiper-slide" style="background-image:url(img/events/2af4c4_d14d2b32d2b0407a8760399eaa9fba70_mv2.webp)">
                 <div class="slide-title">Новогодняя елка</div>
                 <div class="date">30.12.2020 в 20:00</div>
@@ -422,7 +414,7 @@
 
       <section class="insta_block">
         <div class="insta_header">
-          <div class="title">Подписывайтесь на наш Instagram: <a href="https://www.instagram.com/polyana_restoran/">@polyana_restoran</a></div>
+          <div class="title">Подписывайтесь на наши соц.сети: <a href="https://www.instagram.com/polyana_restoran/">@polyana_restoran</a></div>
           <p>Атмосфера загородной усадьбы в особняке 19 века</p>
         </div>
         <div class="swiper-entry">
