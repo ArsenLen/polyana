@@ -11,7 +11,7 @@
       <div class="nav">
         <ul>
           <li><a href="menu-page.php" class="active">Банкетное предложение</a></li>
-          <li><a href="" class="active">Меню</a></li>
+          <li><a href="menus.php" class="active">Меню</a></li>
           <li><a href="https://polyana-dostavka.ru/">Доставка</a></li>
           <li><a href="!#" class="scroll-to-contacts">Контакты</a></li>
           <li><a href="children-page.php">детские праздники</a></li>
